@@ -2,21 +2,22 @@
 
 - 🔭 Estudante de engenharia de software no IFG
 - 🌱 Estudando HTML, CSS, Javascript e Java 
-- 😄 Pronomes: ele/dele
 - ⚡ Fun fact: Vegetariano 🌿
 
-<div>
+##
+
+<div style="display: inline_block">
   <a href="https://github.com/JoaoPauloPach">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopaulopach&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulopach&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopaulopach&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulopach&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="150em" align="right" alt="joao-nyan" src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat-1.gif">
+  <img height="160em" align="right" alt="joao-nyan" src="https://i.imgur.com/OOpRj.gif">
 </div>
   
   ##
