@@ -3,7 +3,7 @@
 ##
 - 🔭 Estudante de engenharia de software no IFG
 - 🌱 Estudando HTML, CSS, Javascript e Java 
-- ⚡ Fun fact: Vegetariano 🌿
+
 ##
 <div>
   <a href="https://github.com/JoaoPauloPach">
