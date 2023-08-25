@@ -2,7 +2,8 @@
 
 ##
 - 🔭 Estudante de engenharia de software no IFG
-- 🌱 Estudando HTML, CSS, Javascript e Java 
+- 🌱 Estudando HTML, CSS, Javascript e Java
+- Atualmento como estágiario em análise de negócios na LG lugar de gente
 
 ##
 <div>
