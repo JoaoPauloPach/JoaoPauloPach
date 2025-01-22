@@ -3,7 +3,7 @@
 ##
 - 🔭 Estudante de engenharia de software no IFG
 - 🌱 Estudando HTML, CSS, Javascript e Java
-- Atualmente como estágiario em análise de negócios na LG lugar de gente
+- Atualmente como Associate Product Manager na LG lugar de gente
 
 ##
 <div>
